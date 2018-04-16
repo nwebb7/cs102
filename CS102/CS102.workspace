@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="CS102" Database="">
+  <Project Name="Lab0" Path="Lab0/Lab0.project" Active="No"/>
+  <Project Name="Practice" Path="Practice/Practice.project" Active="No"/>
+  <Project Name="Lab2" Path="Lab2/Lab2.project" Active="No"/>
+  <Project Name="LAB3" Path="LAB3/LAB3.project" Active="No"/>
+  <Project Name="LAB4" Path="LAB4/LAB4.project" Active="No"/>
+  <Project Name="Lab_5" Path="Lab_5/Lab_5.project" Active="No"/>
+  <Project Name="Lab6" Path="Lab6/Lab6.project" Active="No"/>
+  <Project Name="Lab_7" Path="Lab_7/Lab_7.project" Active="No"/>
+  <Project Name="LAB7" Path="LAB7/LAB7.project" Active="No"/>
+  <Project Name="LAB8" Path="LAB8/LAB8.project" Active="No"/>
+  <Project Name="LAB88" Path="LAB88/LAB88.project" Active="No"/>
+  <Project Name="LAB9" Path="LAB9/LAB9.project" Active="No"/>
+  <Project Name="Lab10prelab" Path="Lab10prelab/Lab10prelab.project" Active="Yes"/>
+  <Project Name="LAB11" Path="LAB11/LAB11.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Project Name="Lab0" ConfigName="Debug"/>
+      <Project Name="Practice" ConfigName="Debug"/>
+      <Project Name="Lab2" ConfigName="Debug"/>
+      <Project Name="LAB3" ConfigName="Debug"/>
+      <Project Name="LAB4" ConfigName="Debug"/>
+      <Project Name="Lab_5" ConfigName="Debug"/>
+      <Project Name="Lab6" ConfigName="Debug"/>
+      <Project Name="Lab_7" ConfigName="Debug"/>
+      <Project Name="LAB7" ConfigName="Debug"/>
+      <Project Name="LAB8" ConfigName="Debug"/>
+      <Project Name="LAB88" ConfigName="Debug"/>
+      <Project Name="LAB9" ConfigName="Debug"/>
+      <Project Name="Lab10prelab" ConfigName="Debug"/>
+      <Project Name="LAB11" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Project Name="Lab0" ConfigName="Release"/>
+      <Project Name="Practice" ConfigName="Release"/>
+      <Project Name="Lab2" ConfigName="Release"/>
+      <Project Name="LAB3" ConfigName="Release"/>
+      <Project Name="LAB4" ConfigName="Release"/>
+      <Project Name="Lab_5" ConfigName="Release"/>
+      <Project Name="Lab6" ConfigName="Release"/>
+      <Project Name="Lab_7" ConfigName="Release"/>
+      <Project Name="LAB7" ConfigName="Release"/>
+      <Project Name="LAB8" ConfigName="Release"/>
+      <Project Name="LAB88" ConfigName="Release"/>
+      <Project Name="LAB9" ConfigName="Release"/>
+      <Project Name="Lab10prelab" ConfigName="Release"/>
+      <Project Name="LAB11" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
